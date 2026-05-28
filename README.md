@@ -12,7 +12,7 @@ A sophisticated AI agent built with Microsoft Agent Framework and Foundry, desig
 - **Personalization**: Tailored responses for the user
 - **Safety Features**: Built-in safeguards to prevent misuse and harmful actions
 - **Avatar Support**: Foundation for physical virtual form with lip syncing (extensible)
-- **HTTP Server**: Deployable as a web service for production use
+- **HTTP Server**: Deployable as a web service for production use.
 
 ## Project Structure
 

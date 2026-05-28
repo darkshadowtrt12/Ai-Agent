@@ -1,6 +1,6 @@
-# Virtual Anime Girlfriend AI Agent
+# Virtual Anime friend AI Agent
 
-A sophisticated AI agent built with Microsoft Agent Framework and Foundry, designed to act as a virtual anime girlfriend with advanced features.
+A sophisticated AI agent built with Microsoft Agent Framework and Foundry, designed to act as a virtual anime friend with advanced features.
 
 ## Features
 
